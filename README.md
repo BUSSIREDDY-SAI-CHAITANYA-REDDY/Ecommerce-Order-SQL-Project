@@ -16,11 +16,11 @@ A complete database project simulating an E-commerce platform for managing custo
 
 | File               | Purpose                                |
 |--------------------|----------------------------------------|
-| `schema.sql`       | SQL scripts to create all tables       |
-| `insert_data.sql`  | Sample data (~50+ rows across tables)  |
-| `queries.sql`      | Real-world SQL queries for insights    |
-| `ER-diagram.png`   | Database schema diagram      |
-| `README.md`        | Project overview and instructions      |
+|  schema.      | SQL scripts to create all tables       |
+|  insert_data  | Sample data (~50+ rows across tables)  |
+|  queries   | Real-world SQL queries for insights    |
+|  ER-diagram`   | Database schema diagram      |
+|  README.md        | Project overview and instructions      |
 
 ## 💻 How to Run
 
@@ -37,19 +37,15 @@ A complete database project simulating an E-commerce platform for managing custo
 - Monitor inventory (stock management)
 - Summarize payments by mode
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 - SQL Server 2021
 - SSMS
-- GitHub (for version control)
+- GitHub 
 
-## 📸 ER Diagram
+👨‍💻 Author
 
-![ER Diagram](ER-diagram.png)
-
-## 👨‍💻 Author
-
-**Sai Chaitanya Reddy**  
+Sai Chaitanya Reddy  
 GitHub: [github.com/BUSSIREDDY-SAI-CHAITANYA-REDDY](https://github.com/BUSSIREDDY-SAI-CHAITANYA-REDDY)
 
 ---
